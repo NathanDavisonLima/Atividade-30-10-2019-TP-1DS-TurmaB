@@ -1,0 +1,7 @@
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csprojAssemblyReference.cache
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+F:\Bidu\Exercicio While\Exercicio 8\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb

@@ -1,0 +1,9 @@
+C:\Users\etec\Desktop\exercicio 6\exercicio 6\obj\Debug\exercicio 6.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\exercicio 6\exercicio 6\obj\Debug\exercicio 6.csproj.CoreCompileInputs.cache
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\bin\Debug\exercicio 6.exe.config
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\bin\Debug\exercicio 6.exe
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\bin\Debug\exercicio 6.pdb
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\obj\Debug\exercicio 6.csprojAssemblyReference.cache
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\obj\Debug\exercicio 6.csproj.CoreCompileInputs.cache
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\obj\Debug\exercicio 6.exe
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 6\exercicio 6\obj\Debug\exercicio 6.pdb

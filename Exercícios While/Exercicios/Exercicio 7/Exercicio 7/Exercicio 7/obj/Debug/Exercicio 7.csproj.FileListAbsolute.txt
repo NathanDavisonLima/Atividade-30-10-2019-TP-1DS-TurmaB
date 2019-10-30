@@ -1,0 +1,7 @@
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\bin\Debug\Exercicio 7.exe.config
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\bin\Debug\Exercicio 7.exe
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\bin\Debug\Exercicio 7.pdb
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.csprojAssemblyReference.cache
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.csproj.CoreCompileInputs.cache
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.exe
+F:\Bidu\Exercicio While\Exercicio 7\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.pdb

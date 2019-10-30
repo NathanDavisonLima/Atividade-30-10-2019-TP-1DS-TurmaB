@@ -1,0 +1,21 @@
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\etec\Desktop\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+E:\AULAS ETEC\1 DS\Bidu\04-10\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+E:\Prof° Bidu\Exercícios While\Exercicios\exercicio 5\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
